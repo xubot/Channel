@@ -62,7 +62,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="0.5dp"
-                android:background="#708090"/>
+                android:background="@color/subscribe_item_drag_stroke"/>
 
             <TextView
                 android:id="@+id/more_category_text"
